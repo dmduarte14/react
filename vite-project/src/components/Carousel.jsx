@@ -5,7 +5,7 @@ function Carousel({ slides }) {
   return (
 
     <section id="Servicios" >
-      
+      <hr className="linea"/>
     <article className = "carousel">
 
     <div id="carouselExampleAutoplaying" 

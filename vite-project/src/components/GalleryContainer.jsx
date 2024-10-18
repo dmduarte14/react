@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 function GalleryContainer({ galleries }) {
   return (
     <section id="Galeria">  
-    
+    <hr className="linea"/><br /><br /><br />
              <h2>Galería</h2>
           <div className='image-container'>
          

@@ -13,6 +13,8 @@ function CardContainer({ cards }) {
     
 
     <section id="Autogestion"> 
+    <hr className="linea"/>
+    <br /><br /><br />
             <div className="card-container">
               
 

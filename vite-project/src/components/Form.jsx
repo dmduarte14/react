@@ -41,6 +41,8 @@ function Form() {
     return (
 
         <section id="Contacto">
+            <hr className="linea"/>
+            <br /><br /><br />
         <form onSubmit={handleSubmit}>
             <div className="contactContainer">
                 <div className="form">
